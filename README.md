@@ -1,0 +1,1 @@
+For my final project, I will analyze a dataset to see if there are correlations between a city's demographics and its temperature to study the effect of the urban heat island effect. 
