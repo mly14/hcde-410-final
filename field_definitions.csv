@@ -1,0 +1,40 @@
+﻿Field,Definition
+Area, area of the census tract in square meter. 
+ BSA, the difference in urban and rural black sky albedo. 
+ BSA2010, the difference in urban and rural black sky albedo for the 5-year time period 2005-2009. 
+ BSA2020, the difference in urban and rural black sky albedo for the 5-year time period 2015-2019. 
+ GEOID, eleven number digit ID of each census tract linking them to other Census Bureau Data and shapefiles. 
+ NDBI, the difference in urban and rural normalized built-up index. 
+ NDBI2010, the difference in urban and rural normalized built-up index for the 5-year time period 2005-2009. 
+ NDBI2020, the difference in urban and rural normalized built-up index for the 5-year time period 2015-2019. 
+ NDVI, the difference in urban and rural normalized vegetation index. 
+ NDVI2010, the difference in urban and rural normalized vegetation index for the 5-year time period 2005-2009. 
+ NDVI2020, the difference in urban and rural normalized vegetation index for the 5-year time period 2015-2019. 
+ day, daytime ∆T. 
+ day2010, daytime ∆T for the 5-year time period 2005-2009. 
+ day2020, daytime ∆T for the 5-year time period 2015-2019. 
+ night, nighttime ∆T. 
+ night2010, nighttime ∆T for the 5-year time period 2005-2009. 
+ night2020, nighttime ∆T for the 5-year time period 2015-2019. 
+ DevelopedArea, developed area (based on the USGS National Land Cover Database 2013) of the census tract in square meter. 
+ Pop, total population of the census tract. 
+ Pop2010, total population of the census tract in the 5-year time period 2005-2009. 
+ Pop2020, total population of the census tract in the 5-year time period 2015-2019. 
+ NAME, name of the census tract. 
+ State, state in which the census tract is located. 
+ Black, share of individuals identifying as Black or African Americans alone or in combination with one or more other races. 
+ Black2010, share of individuals identifying as Black or African Americans alone or in combination with one or more other races in the 5-year time period 2005-2009. 
+ Black2020, share of individuals identifying as Black or African Americans alone or in combination with one or more other races in the 5-year time period 2015-2019. 
+ Asian, share of individuals identifying as Asian and no other race. 
+ Asian2010, share of individuals identifying as Asian and no other race in the 5-year time period 2005-2009. 
+ Asian2020, share of individuals identifying as Asian and no other race in the 5-year time period 2015-2019. 
+ White, share of individuals identifying as White but not ethnically Hispanic or Latinx. 
+ Hispanic, share of individuals identifying as ethnically Hispanic or Latinx. 
+ Hispanic2010, share of individuals identifying as ethnically Hispanic or Latinx in the 5-year time period 2005-2009. 
+ Hispanic2020, share of individuals identifying as ethnically Hispanic or Latinx in the 5-year time period 2015-2019. 
+ nonUS, share of individuals that are NOT US-citizens. 
+ Edu, share of individuals with a high school diploma (includes High school equivalency) or less. 
+ SP, single parents - share of children under the age of 18 living with one parent. 
+ Age, share of individuals 75 years of age or older. 
+ Income, median income in the past 12 month in 2014 inflation-adjusted US$. 
+ Housing, average monthly housing cost in 2014 inflatio
